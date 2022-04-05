@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KCfSkS0pm8N5heVYcsjWhLraAsUgpb6Bn5KoBt54c2jLtee20ucChW1Zu1p2vyPU/p8/K/VZqTL+qeEgrLV7Hw==",
+  "success": true,
+  "projectFilePath": "D:\\SARMISHA\\VS-practise\\first-test\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sarmisha.s\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
